@@ -1,4 +1,4 @@
-# MyDukaan Project: Payout Page
+# MyDukaan Assignment: Payout Page
 
 Welcome to the README for the Payout Page of my project with [mydukaan.io](https://mydukaan.io/). This document provides an overview of the project, how to set it up locally, and any additional information that may be relevant.
 
@@ -14,7 +14,8 @@ Welcome to the README for the Payout Page of my project with [mydukaan.io](https
 [Live Payout Page](https://assignment-dukan-delta.vercel.app/) 
 
 ## Screenshots
-![Payout Page Screenshot](#) <!-- Replace '#' with the link to your screenshot -->
+![Screenshot (67)](https://github.com/Prashantrathour/assignment-t/assets/112960345/7d6b9eb5-ec45-4c2e-a0cd-d76f4d5eb79a)
+) 
 
 ## Tech Stack
 - HTML
