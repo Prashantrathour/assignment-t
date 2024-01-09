@@ -1,10 +1,30 @@
-# Dukaan Assignment
-For my project with [mydukaan.io](https://mydukaan.io/), I successfully created a static payout page mirroring the provided Figma design. Meticulously implementing the design elements, I ensured a seamless and visually appealing user experience. 
+# MyDukaan Project: Payout Page
 
-### [Deployement Link]()
+Welcome to the README for the Payout Page of my project with [mydukaan.io](https://mydukaan.io/). This document provides an overview of the project, how to set it up locally, and any additional information that may be relevant.
 
-## SnapShots
+## Table of Contents
+- [Deployment Link](#deployment-link)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Local Setup](#local-setup)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Payout-page
+## Deployment Link
+[Live Payout Page](https://assignment-dukan-delta.vercel.app/) 
 
-![Screenshot (1500)]()
+## Screenshots
+![Payout Page Screenshot](#) <!-- Replace '#' with the link to your screenshot -->
+
+## Tech Stack
+- HTML
+- CSS
+- React
+
+## Local Setup
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Prashantrathour/assignment-t.git
+   cd assignment-t
